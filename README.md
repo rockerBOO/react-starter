@@ -1,5 +1,7 @@
 # React Starter
 
+Archived in favor of [react-typescript-starter](https://github.com/rockerBOO/react-typescript-starter)
+
 React 16.8 starter with StyledComponents 5, Normalize.css 8
 Webpack 4 with React Hot Loader, React Hot Dom, Babel 7, ESLint 5, Stylelint 10, Jest 24
 
